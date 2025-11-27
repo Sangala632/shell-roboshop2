@@ -1,7 +1,7 @@
 #!/bin/bash
 
 source ./common.sh
-app_name=mongodb
+App_name=mongodb
 
 check_root
 
