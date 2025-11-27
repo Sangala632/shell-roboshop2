@@ -6,7 +6,7 @@ check_root
 app_setup
 python_setup
 systemd_setup
-printtime
+print_time
 
 
 
