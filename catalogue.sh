@@ -1,7 +1,7 @@
 #!/bin/bash
 
 source ./common.sh
-App_name=catalouge
+App_name=catalogue
 
 check_root
 app_setup
