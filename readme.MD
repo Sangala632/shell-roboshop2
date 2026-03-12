@@ -1,6 +1,4 @@
 # Roboshop 3 Tier Architecture
-
-![Architecture Diagram](roboshop-infra-dev.drawio.svg)
 # RoboShop – Shell Provisioning Scripts
 
 RoboShop is a multi-tier e-commerce demo application. This repository contains **Bash scripts that automate the installation and configuration of every service** on RHEL / Rocky Linux 9 servers. Each script mirrors what you would do manually, making it easy to follow and extend.
